@@ -1,0 +1,2 @@
+learning_communication:ros_serial
+-DCATKIN_DEVEL_PREFIX=/home/book/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/book/catkin_ws/install -G Unix Makefiles
